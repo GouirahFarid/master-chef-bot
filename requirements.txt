@@ -1,0 +1,19 @@
+# Core dependencies
+streamlit==1.52.1
+psycopg2-binary==2.9.11
+sqlalchemy==2.0.45
+pgvector==0.4.2
+
+# ML/AI dependencies
+sentence-transformers==2.7.0
+transformers==4.57.3
+torch>=2.1.0
+huggingface_hub>=0.20.0
+
+# Data processing
+pandas==2.3.3
+numpy==2.3.5
+tqdm==4.67.1
+
+# Utilities
+python-dotenv==1.0.0
