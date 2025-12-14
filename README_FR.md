@@ -10,12 +10,6 @@ Un assistant RAG (Retrieval-Augmented Generation) prêt pour la production, capa
 - [⚙️ Installation](#️-installation)
 - [🚀 Démarrage Rapide](#-démarrage-rapide)
 - [📚 Documentation Détaillée](#-documentation-détaillée)
-- [🔧 Configuration](#-configuration)
-- [📊 Performance](#-performance)
-- [🛠️ Développement](#️-développement)
-- [🐛 Dépannage](#-dépannage)
-- [🤝 Contribuer](#-contribuer)
-- [📄 Licence](#-licence)
 
 ## 🎯 Vue d'ensemble du Projet
 
@@ -150,11 +144,6 @@ CREATE TABLE population_status (
 - **2.2GB d'espace disque** (pour les données)
 
 ### 1. Cloner le Dépôt
-
-```bash
-git clone https://github.com/yourusername/Recipe-RAG-Chatbot.git
-cd Recipe-RAG-Chatbot
-```
 
 ### 2. Créer l'Environnement Virtuel
 

@@ -10,12 +10,6 @@ A production-ready Retrieval-Augmented Generation (RAG) assistant for searching 
 - [⚙️ Installation](#️-installation)
 - [🚀 Quick Start](#-quick-start)
 - [📚 Detailed Documentation](#-detailed-documentation)
-- [🔧 Configuration](#-configuration)
-- [📊 Performance](#-performance)
-- [🛠️ Development](#️-development)
-- [🐛 Troubleshooting](#-troubleshooting)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
 
 ## 🎯 Project Overview
 
@@ -151,10 +145,7 @@ CREATE TABLE population_status (
 
 ### 1. Clone the Repository
 
-```bash
-git clone https://github.com/yourusername/Recipe-RAG-Chatbot.git
-cd Recipe-RAG-Chatbot
-```
+
 
 ### 2. Create Virtual Environment
 
